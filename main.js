@@ -56,6 +56,9 @@ console.log('endTime :', endTime);
 }
 
 
+
+
+
 //attempt #1
 let whiteSpace = document.getElementById('white-space');
 let currentHeight = 0;
